@@ -255,5 +255,5 @@ For easy access and offline viewing, I've also uploaded these resources to [Goog
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Kishan Patel</sub>
+  <sub>Collected with ❤️ by Kishan Patel</sub>
 </div>
